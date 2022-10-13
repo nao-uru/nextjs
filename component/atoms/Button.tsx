@@ -21,7 +21,7 @@ const sampleButton = css`
   font-weight: bold;
   width: 400px;
   border-radius: 4px;
-  background-color: #D3EBF0;
+  background-color: #6ecd7f;
   text-align: center;
   margin: 80px auto;
   padding: 20px 40px;
